@@ -1,4 +1,4 @@
-# Determining the Computational Weibull strength of Nerual Network Molecular Dynamics
+# Determining the Computational Weibull strength of Nerual Network Molecular Dynamics (NNMD)
 ## Introduction
 
 #### Molecular dynamics (MD) is a computational method to model and simulate materials. Molecular dynamics simulates interaction between atoms and molecules over a fixed period of time. MD is used to compute structural, mechanical, chemical, and thermodynamical properties of materials. Trajectories of particles are calculated using Newton’s equations of motion, and forces and potential energy are calculated using interatomic potentials. This makes the interatomic potential a very important component of the MD system. 
