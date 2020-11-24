@@ -5,7 +5,7 @@
 
 ## Need for Neural Network MD
 
-#### The accuracy of molecular dynamics depends on the accuracy of the interatomic potential being used in the simulation. Interatomic potentials are developed using ab initio methods like density functional theory, but this is very computationaly demanding. In recent time, a new method has been employed to develop interatomic potentials using Machine Learning. Machine Learning Potentials can be as accurate as their first principles reference method but at a fraction of the computational cost. They scale linearly with the number of atoms and model complexity.
+#### The accuracy of molecular dynamics depends on the accuracy of the interatomic potential being used in the simulation. Interatomic potentials are developed using ab initio methods like density functional theory (DFT), but this is very computationaly demanding. In recent time, a new method has been employed to develop interatomic potentials using Machine Learning. Machine Learning Potentials can be as accurate as their first principles reference method but at a fraction of the computational cost. They scale linearly with the number of atoms and model complexity.
 
 ## Project Motivation
 
