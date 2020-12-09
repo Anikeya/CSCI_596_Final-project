@@ -12,3 +12,6 @@
 #### It has been observed that the simulations using NNMD fails sooner as the number of atoms in the system increases. This can be explained by using the gaussian distribution. The force prediction using NNMD MLP follows a gaussian distribution and there will be some outlier force predictions, and it requires only a few extreme force predictions to blow up a simulation. As the number of atoms increases in the system we will see more extreme force values causing the failer of simulation. In the project we would like to calculate the "statistical scalability" of NNMD and define the "computational Weibull strength" of NNMD.
 
 ![CS596-Project-imag1](https://user-images.githubusercontent.com/13280755/99920128-4c520800-2cd6-11eb-912b-05c3e52f3649.png)
+
+## Current Result
+#### <img width="1075" alt="result" src="https://user-images.githubusercontent.com/38379489/101703237-50508a80-3a37-11eb-9ce7-4c7865924a39.png">
